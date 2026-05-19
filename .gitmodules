@@ -1,0 +1,9 @@
+[submodule "modules/WHO-Drug"]
+	path = modules/WHO-Drug
+	url = https://github.com/bondusrisurya/WHO-Drug.git
+[submodule "modules/Randomization"]
+	path = modules/Randomization
+	url = https://github.com/bondusrisurya/Randomization.git
+[submodule "modules/IWRS"]
+	path = modules/IWRS
+	url = https://github.com/bondusrisurya/IWRS.git
